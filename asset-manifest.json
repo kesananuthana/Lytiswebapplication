@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Lytiswebapplication/static/css/main.d3a383fb.css",
+    "main.js": "/Lytiswebapplication/static/js/main.dddbaec9.js",
+    "static/js/453.fe1c497e.chunk.js": "/Lytiswebapplication/static/js/453.fe1c497e.chunk.js",
+    "static/media/emp.jpeg": "/Lytiswebapplication/static/media/emp.810210bd091f5532c7c9.jpeg",
+    "static/media/About.jpeg": "/Lytiswebapplication/static/media/About.2a970dd7a00e516d82df.jpeg",
+    "index.html": "/Lytiswebapplication/index.html",
+    "main.d3a383fb.css.map": "/Lytiswebapplication/static/css/main.d3a383fb.css.map",
+    "main.dddbaec9.js.map": "/Lytiswebapplication/static/js/main.dddbaec9.js.map",
+    "453.fe1c497e.chunk.js.map": "/Lytiswebapplication/static/js/453.fe1c497e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3a383fb.css",
+    "static/js/main.dddbaec9.js"
+  ]
+}
